@@ -1,9 +1,4 @@
 <template>
- <!-- <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
-  <router-view/>-->
   <div>
   <div id="main" :class="isDay ? 'day' : 'night'">
     <div class="container" style="max-width: 400px; min-width: 360px">

@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "email": "swathi@gmail.com",
+      "password": "swathi"
+    },
+    {
+      "email": "swa@gmail.com",
+      "password": "swa",
+      "id": 2
+    },
+    {
+      "email": "scherala96@gmail.com",
+      "password": "sc",
+      "id": 3
+    },
+    {
+      "email": "sachincherala@gmail.com",
+      "password": "sachin",
+      "id": 4
+    },
+    {
+      "email": "shiva@gmail.com",
+      "password": "shiva",
+      "id": 5
+    },
+    {
+      "email": "sh@gmail.com",
+      "password": "sh",
+      "id": 6
+    },
+    {
+      "email": "raavi@gmail.com",
+      "password": "raavi",
+      "id": 7
+    },
+    {
+      "email": "raavi@gmail.com",
+      "password": "raavi",
+      "id": 8
+    },
+    {
+      "email": "vinit@gmail.com",
+      "password": "vinit",
+      "id": 9
+    },
+    {
+      "email": "vin@gmail.com",
+      "password": "vin",
+      "id": 10
+    },
+    {
+      "email": "swathicherala96@gmail.com",
+      "password": "swa",
+      "id": 11
+    },
+    {
+      "email": "sachincherala@gmail.com",
+      "password": "sa",
+      "id": 12
+    },
+    {
+      "email": "sh@gmail.com",
+      "password": "sh",
+      "id": 13
+    },
+    {
+      "email": "sh@gmail.com",
+      "password": "sh",
+      "id": 14
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
